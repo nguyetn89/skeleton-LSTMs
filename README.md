@@ -1,5 +1,5 @@
 # skeleton-LSTMs
-An implementation of the paper "Skeleton-based gait index estimation with LSTMs" (IEEE ICIS, Singapore, June 2018)
+An implementation of the paper [Skeleton-based gait index estimation with LSTMs](https://ieeexplore.ieee.org/document/8466522)
 
 ## Requirements
 * Python
